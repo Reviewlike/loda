@@ -5,3 +5,7 @@ const sum = (a, b) => {
 const like = () => {
   return "hello world";
 };
+
+const likes = () => {
+  return "hello world";
+};
